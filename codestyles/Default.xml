@@ -1,0 +1,9 @@
+<code_scheme name="Default">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
+  <codeStyleSettings language="JAVA">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+  </codeStyleSettings>
+</code_scheme>
