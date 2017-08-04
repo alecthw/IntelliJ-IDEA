@@ -4,7 +4,7 @@
     <property name="created">2017-07-21T20:21:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-07-21T20:21:30</property>
+    <property name="modified">2017-08-04T19:04:18</property>
     <property name="originalScheme">Gedit Original Oblivion</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -496,6 +496,34 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="27ea89" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="efc090" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="729fcf" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="729fcf" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="d197d9" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
